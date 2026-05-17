@@ -2,5 +2,27 @@
   "activity_log": {
     "120363423091145577@g.us:62895406178006@s.whatsapp.net:3:2026-05-14": 9,
     "120363423091145577@g.us:62881022288695@s.whatsapp.net:3:2026-05-14": 1
+  },
+  "groups": {
+    "120363424692548586@g.us": {
+      "welcome": false,
+      "goodbye": false,
+      "antitoxic": false,
+      "antispam": false,
+      "antilink": false,
+      "antidel": false,
+      "antiviewonce": false,
+      "only62": false,
+      "open": true,
+      "welcomeMsg": "",
+      "goodbyeMsg": "",
+      "messages": {
+        "114860746633351@lid": 10
+      },
+      "spamTrack": {},
+      "hourly": {
+        "10": 10
+      }
+    }
   }
 }

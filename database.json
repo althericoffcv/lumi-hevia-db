@@ -6,7 +6,7 @@
   "groups": {
     "120363424692548586@g.us": {
       "welcome": true,
-      "goodbye": false,
+      "goodbye": true,
       "antitoxic": false,
       "antispam": false,
       "antilink": false,
@@ -17,12 +17,12 @@
       "welcomeMsg": "",
       "goodbyeMsg": "",
       "messages": {
-        "114860746633351@lid": 12
+        "114860746633351@lid": 13
       },
       "spamTrack": {},
       "hourly": {
         "10": 10,
-        "11": 2
+        "11": 3
       }
     }
   }

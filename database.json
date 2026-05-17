@@ -10,20 +10,21 @@
       "antitoxic": false,
       "antispam": false,
       "antilink": false,
-      "antidel": false,
+      "antidel": true,
       "antiviewonce": false,
       "only62": false,
       "open": true,
       "welcomeMsg": "",
       "goodbyeMsg": "",
       "messages": {
-        "114860746633351@lid": 19,
+        "114860746633351@lid": 25,
         "219735442616562@lid": 1
       },
       "spamTrack": {},
       "hourly": {
         "10": 10,
-        "11": 10
+        "11": 11,
+        "12": 5
       }
     }
   }

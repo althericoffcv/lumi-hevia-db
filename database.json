@@ -12,12 +12,12 @@
       "antilink": false,
       "antidel": true,
       "antiviewonce": true,
-      "only62": true,
+      "only62": false,
       "open": true,
       "welcomeMsg": "",
       "goodbyeMsg": "",
       "messages": {
-        "114860746633351@lid": 35,
+        "114860746633351@lid": 38,
         "219735442616562@lid": 5
       },
       "spamTrack": {},
@@ -25,7 +25,7 @@
         "10": 10,
         "11": 11,
         "12": 16,
-        "14": 3
+        "14": 6
       }
     },
     "120363190404312751@g.us": {
@@ -50,6 +50,26 @@
       "hourly": {
         "13": 41,
         "14": 39
+      }
+    },
+    "120363423091145577@g.us": {
+      "welcome": false,
+      "goodbye": false,
+      "antitoxic": false,
+      "antispam": false,
+      "antilink": false,
+      "antidel": false,
+      "antiviewonce": false,
+      "only62": false,
+      "open": true,
+      "welcomeMsg": "",
+      "goodbyeMsg": "",
+      "messages": {
+        "114860746633351@lid": 1
+      },
+      "spamTrack": {},
+      "hourly": {
+        "14": 1
       }
     }
   }

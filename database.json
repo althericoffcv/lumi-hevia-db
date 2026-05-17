@@ -17,14 +17,36 @@
       "welcomeMsg": "",
       "goodbyeMsg": "",
       "messages": {
-        "114860746633351@lid": 29,
-        "219735442616562@lid": 4
+        "114860746633351@lid": 32,
+        "219735442616562@lid": 5
       },
       "spamTrack": {},
       "hourly": {
         "10": 10,
         "11": 11,
-        "12": 12
+        "12": 16
+      }
+    },
+    "120363190404312751@g.us": {
+      "welcome": false,
+      "goodbye": false,
+      "antitoxic": false,
+      "antispam": false,
+      "antilink": false,
+      "antidel": false,
+      "antiviewonce": false,
+      "only62": false,
+      "open": true,
+      "welcomeMsg": "",
+      "goodbyeMsg": "",
+      "messages": {
+        "77889785602244@lid": 3,
+        "222424176005230@lid": 5,
+        "114860746633351@lid": 2
+      },
+      "spamTrack": {},
+      "hourly": {
+        "13": 10
       }
     }
   }

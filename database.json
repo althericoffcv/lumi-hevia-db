@@ -12,19 +12,19 @@
       "antilink": false,
       "antidel": true,
       "antiviewonce": true,
-      "only62": false,
+      "only62": true,
       "open": true,
       "welcomeMsg": "",
       "goodbyeMsg": "",
       "messages": {
-        "114860746633351@lid": 27,
-        "219735442616562@lid": 3
+        "114860746633351@lid": 29,
+        "219735442616562@lid": 4
       },
       "spamTrack": {},
       "hourly": {
         "10": 10,
         "11": 11,
-        "12": 9
+        "12": 12
       }
     }
   }
